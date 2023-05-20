@@ -5,7 +5,7 @@
   <a href="https://solved.ac/kamg2218"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kamg2218"/></a>
   
   <div>&ensp;</div>
-  <div align="left">&emsp;&emsp; 📓 Blog : <a href="https://hazellog.tistory.com">https://hazellog.tistory.com</a></div>
+<!--   <div align="left">&emsp;&emsp; 📓 Blog : <a href="https://hazellog.tistory.com">https://hazellog.tistory.com</a></div> -->
 <!--   <div align="left">&emsp;&emsp; 📄 Resume: ... </div> -->
   <br/>
   <br/>
